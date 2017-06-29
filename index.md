@@ -1,10 +1,10 @@
 ## Baeta compiler
-An interpreter for a typed functionnal programming language that I did in fall 2016. It contains a parser, type system with full inference (Hindley-Milner). It compile to lambda calculus. Made with Haskell
+An interpreter for a typed functionnal programming language that I did in fall 2016. It contains a parser, type system with full inference (Hindley-Milner). It compile to lambda calculus. Made with Haskell.
 
 [Link to the repository](https://github.com/bruno-cadorette/Baeta-Compiler)
 
 ## Garbage collector
-This is an implemention of the [Boehm-Demers-Weiser conservative garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector) with a C++ api to use it in a real program!
+This is an implemention of the [Boehm-Demers-Weiser conservative garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector) with a C++ api using smart pointers.
 
 [Link to the repository](https://github.com/bruno-cadorette/RealTimeGarbageCollector)
 
