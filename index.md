@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Bruno Cadorette's projects
+This is a summary of my project on github
 
-You can use the [editor on GitHub](https://github.com/bruno-cadorette/bruno-cadorette.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Baeta compiler
+An interpreter for a typed functionnal programming language that I did in fall 2016. It contains a parser, type system with full inference (Hindley-Milner). It compile to lambda calculus. Made with Haskell
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Link to the repository](https://github.com/bruno-cadorette/Baeta-Compiler)
 
-### Markdown
+## Garbage collector
+This is an implemention of the [Boehm-Demers-Weiser conservative garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector) with a C++ api to use it in a real program!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link to the repository](https://github.com/bruno-cadorette/RealTimeGarbageCollector)
 
-```markdown
-Syntax highlighted code block
+## Advent of code
+Advent of Code is a series of small programming puzzles for a variety of skill levels. They are self-contained and are just as appropriate for an expert who wants to stay sharp as they are for a beginner who is just learning to code. Each puzzle calls upon different skills and has two parts that build on a theme.
 
-# Header 1
-## Header 2
-### Header 3
+I did all the challenges in 2015 and half of them in 2016, I plan to complete them one day
+Made with Haskell
+* [Advent of code 2015](https://github.com/bruno-cadorette/AdventOfCode2015)
+* [Advent of code 2016](https://github.com/bruno-cadorette/AdventOfCode2016)
 
-- Bulleted
-- List
+## Chess with basic distributed AI
+We had to make a chess game and use [MPI](https://fr.wikipedia.org/wiki/Message_Passing_Interface) to distribute the AI (minmax)
+Contains a chess game and the distributed minmax algorithm.
+Made with Haskell
+[Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
 
-1. Numbered
-2. List
+## Lambda-Reactor
+A multiplayer video game made with Elm (0.16) and Haskell using websockets and functionnal reactive programming. 
+[Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bruno-cadorette/bruno-cadorette.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## BrainFSharpuck
+This project is old, but a brainfuck interpreter in f# is always nice!
+[Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
