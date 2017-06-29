@@ -1,4 +1,8 @@
-# Bruno Cadorette's projects
+---
+title: Bruno Cadorette's projects
+layout: post
+---
+
 This is a summary of my projects on github
 
 ## Baeta compiler
