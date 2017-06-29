@@ -1,5 +1,5 @@
 # Bruno Cadorette's projects
-This is a summary of my project on github
+This is a summary of my projects on github
 
 ## Baeta compiler
 An interpreter for a typed functionnal programming language that I did in fall 2016. It contains a parser, type system with full inference (Hindley-Milner). It compile to lambda calculus. Made with Haskell
