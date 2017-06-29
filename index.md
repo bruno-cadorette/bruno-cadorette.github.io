@@ -27,8 +27,10 @@ Made with Haskell
 
 ## Lambda-Reactor
 A multiplayer video game made with Elm (0.16) and Haskell using websockets and functionnal reactive programming. 
+
 [Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
 
 ## BrainFSharpuck
 This project is old, but a brainfuck interpreter in f# is always nice!
+
 [Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
