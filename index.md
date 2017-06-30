@@ -41,3 +41,4 @@ We had to make a chess game and use [MPI](https://fr.wikipedia.org/wiki/Message_
 Contains a chess game and the distributed minmax algorithm.
 Made with Haskell
 [Link to the repository](https://github.com/bruno-cadorette/IFT630-TP3)
+
