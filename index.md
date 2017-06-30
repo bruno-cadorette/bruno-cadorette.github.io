@@ -36,7 +36,7 @@ This project is old, but a brainfuck interpreter in f# is always nice!
 
 * * *
 
-## Chess with basic distributed AI
+## Chess with distributed AI
 We had to make a chess game and use [MPI](https://fr.wikipedia.org/wiki/Message_Passing_Interface) to distribute the AI (minmax)
 Contains a chess game and the distributed minmax algorithm.
 Made with Haskell
